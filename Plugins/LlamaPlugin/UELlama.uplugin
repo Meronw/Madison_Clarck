@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UELlama",
+	"Description": "This plugin enables users to solicit AI-generated text responses by asking requests known as prompts like other tools like ChatGPT do.",
+	"Category": "AI",
+	"CreatedBy": "IsaraTech.",
+	"CreatedByURL": "http://www.isaratech.com",
+	"DocsURL": "https://sites.google.com/isaratech.com/documentation/ue4-plugins/llama-plugin",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/08414ffd6b674042895ee317691f81ff",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UELlama",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
