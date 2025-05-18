@@ -20,8 +20,7 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"VisionOS"
+				"Android"
 			]
 		},
 		{
@@ -39,8 +38,7 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"VisionOS"
+				"Android"
 			]
 		},
 		{
@@ -108,6 +106,16 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "UELlama",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/08414ffd6b674042895ee317691f81ff"
+		},
+		{
+			"Name": "ProgressiveStringSplitter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e270e9a0ec924f4899fa487a5ceb1645"
 		}
 	],
 	"TargetPlatforms": [
