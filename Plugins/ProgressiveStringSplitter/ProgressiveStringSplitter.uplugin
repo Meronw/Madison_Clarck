@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ProgressiveStringSplitter",
+	"Description": "Progressive String Splitter for ChatGPT",
+	"Category": "Game Features",
+	"CreatedBy": "CheeseLabs",
+	"CreatedByURL": "https://github.com/Cheese-Labs",
+	"DocsURL": "https://github.com/Cheese-Labs/UEProgressiveStringSplitter/wiki",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e270e9a0ec924f4899fa487a5ceb1645",
+	"SupportURL": "https://github.com/Cheese-Labs/UEProgressiveStringSplitter/issues",
+	"EngineVersion": "5.2.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ProgressiveStringSplitter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"HoloLens",
+				"Linux",
+				"LinuxArm64",
+				"Mac",
+				"IOS"
+			]
+		}
+	]
+}
