@@ -1,0 +1,442 @@
+[
+	{
+		"Name": "CharacterRow_0",
+		"String": "A",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_a_upper.SM_RussoOne_a_upper"
+	},
+	{
+		"Name": "CharacterRow_1",
+		"String": "a",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_a_lower.SM_RussoOne_a_lower"
+	},
+	{
+		"Name": "CharacterRow_2",
+		"String": "B",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_b_upper.SM_RussoOne_b_upper"
+	},
+	{
+		"Name": "CharacterRow_3",
+		"String": "b",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_b_lower.SM_RussoOne_b_lower"
+	},
+	{
+		"Name": "CharacterRow_4",
+		"String": "C",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_c_upper.SM_RussoOne_c_upper"
+	},
+	{
+		"Name": "CharacterRow_5",
+		"String": "c",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_c_lower.SM_RussoOne_c_lower"
+	},
+	{
+		"Name": "CharacterRow_6",
+		"String": "D",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_d_upper.SM_RussoOne_d_upper"
+	},
+	{
+		"Name": "CharacterRow_7",
+		"String": "d",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_d_lower.SM_RussoOne_d_lower"
+	},
+	{
+		"Name": "CharacterRow_8",
+		"String": "E",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_e_upper.SM_RussoOne_e_upper"
+	},
+	{
+		"Name": "CharacterRow_9",
+		"String": "e",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_e_lower.SM_RussoOne_e_lower"
+	},
+	{
+		"Name": "CharacterRow_10",
+		"String": "F",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_f_upper.SM_RussoOne_f_upper"
+	},
+	{
+		"Name": "CharacterRow_11",
+		"String": "f",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_f_lower.SM_RussoOne_f_lower"
+	},
+	{
+		"Name": "CharacterRow_12",
+		"String": "G",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_g_upper.SM_RussoOne_g_upper"
+	},
+	{
+		"Name": "CharacterRow_13",
+		"String": "g",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_g_lower.SM_RussoOne_g_lower"
+	},
+	{
+		"Name": "CharacterRow_14",
+		"String": "H",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_h_upper.SM_RussoOne_h_upper"
+	},
+	{
+		"Name": "CharacterRow_15",
+		"String": "h",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_h_lower.SM_RussoOne_h_lower"
+	},
+	{
+		"Name": "CharacterRow_16",
+		"String": "I",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_i_upper.SM_RussoOne_i_upper"
+	},
+	{
+		"Name": "CharacterRow_17",
+		"String": "i",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_i_lower.SM_RussoOne_i_lower"
+	},
+	{
+		"Name": "CharacterRow_18",
+		"String": "J",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_j_upper.SM_RussoOne_j_upper"
+	},
+	{
+		"Name": "CharacterRow_19",
+		"String": "j",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_j_lower.SM_RussoOne_j_lower"
+	},
+	{
+		"Name": "CharacterRow_20",
+		"String": "K",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_k_upper.SM_RussoOne_k_upper"
+	},
+	{
+		"Name": "CharacterRow_21",
+		"String": "k",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_k_lower.SM_RussoOne_k_lower"
+	},
+	{
+		"Name": "CharacterRow_22",
+		"String": "L",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_l_upper.SM_RussoOne_l_upper"
+	},
+	{
+		"Name": "CharacterRow_23",
+		"String": "l",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_l_lower.SM_RussoOne_l_lower"
+	},
+	{
+		"Name": "CharacterRow_24",
+		"String": "M",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_m_upper.SM_RussoOne_m_upper"
+	},
+	{
+		"Name": "CharacterRow_25",
+		"String": "m",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_m_lower.SM_RussoOne_m_lower"
+	},
+	{
+		"Name": "CharacterRow_26",
+		"String": "N",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_n_upper.SM_RussoOne_n_upper"
+	},
+	{
+		"Name": "CharacterRow_27",
+		"String": "n",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_n_lower.SM_RussoOne_n_lower"
+	},
+	{
+		"Name": "CharacterRow_28",
+		"String": "O",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_o_upper.SM_RussoOne_o_upper"
+	},
+	{
+		"Name": "CharacterRow_29",
+		"String": "o",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_o_lower.SM_RussoOne_o_lower"
+	},
+	{
+		"Name": "CharacterRow_30",
+		"String": "P",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_p_upper.SM_RussoOne_p_upper"
+	},
+	{
+		"Name": "CharacterRow_31",
+		"String": "p",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_p_lower.SM_RussoOne_p_lower"
+	},
+	{
+		"Name": "CharacterRow_32",
+		"String": "Q",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_q_upper.SM_RussoOne_q_upper"
+	},
+	{
+		"Name": "CharacterRow_33",
+		"String": "q",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_q_lower.SM_RussoOne_q_lower"
+	},
+	{
+		"Name": "CharacterRow_34",
+		"String": "R",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_r_upper.SM_RussoOne_r_upper"
+	},
+	{
+		"Name": "CharacterRow_35",
+		"String": "r",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_r_lower.SM_RussoOne_r_lower"
+	},
+	{
+		"Name": "CharacterRow_36",
+		"String": "S",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_s_upper.SM_RussoOne_s_upper"
+	},
+	{
+		"Name": "CharacterRow_37",
+		"String": "s",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_s_lower.SM_RussoOne_s_lower"
+	},
+	{
+		"Name": "CharacterRow_38",
+		"String": "T",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_t_upper.SM_RussoOne_t_upper"
+	},
+	{
+		"Name": "CharacterRow_39",
+		"String": "t",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_t_lower.SM_RussoOne_t_lower"
+	},
+	{
+		"Name": "CharacterRow_40",
+		"String": "U",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_u_upper.SM_RussoOne_u_upper"
+	},
+	{
+		"Name": "CharacterRow_41",
+		"String": "u",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_u_lower.SM_RussoOne_u_lower"
+	},
+	{
+		"Name": "CharacterRow_42",
+		"String": "V",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_v_upper.SM_RussoOne_v_upper"
+	},
+	{
+		"Name": "CharacterRow_43",
+		"String": "v",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_v_lower.SM_RussoOne_v_lower"
+	},
+	{
+		"Name": "CharacterRow_44",
+		"String": "W",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_w_upper.SM_RussoOne_w_upper"
+	},
+	{
+		"Name": "CharacterRow_45",
+		"String": "w",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_w_lower.SM_RussoOne_w_lower"
+	},
+	{
+		"Name": "CharacterRow_46",
+		"String": "X",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_x_upper.SM_RussoOne_x_upper"
+	},
+	{
+		"Name": "CharacterRow_47",
+		"String": "x",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_x_lower.SM_RussoOne_x_lower"
+	},
+	{
+		"Name": "CharacterRow_48",
+		"String": "Y",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_y_upper.SM_RussoOne_y_upper"
+	},
+	{
+		"Name": "CharacterRow_49",
+		"String": "y",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_y_lower.SM_RussoOne_y_lower"
+	},
+	{
+		"Name": "CharacterRow_50",
+		"String": "Z",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_z_upper.SM_RussoOne_z_upper"
+	},
+	{
+		"Name": "CharacterRow_51",
+		"String": "z",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_z_lower.SM_RussoOne_z_lower"
+	},
+	{
+		"Name": "CharacterRow_52",
+		"String": "0",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_0.SM_RussoOne_0"
+	},
+	{
+		"Name": "CharacterRow_53",
+		"String": "1",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_1.SM_RussoOne_1"
+	},
+	{
+		"Name": "CharacterRow_54",
+		"String": "2",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_2.SM_RussoOne_2"
+	},
+	{
+		"Name": "CharacterRow_55",
+		"String": "3",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_3.SM_RussoOne_3"
+	},
+	{
+		"Name": "CharacterRow_56",
+		"String": "4",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_4.SM_RussoOne_4"
+	},
+	{
+		"Name": "CharacterRow_57",
+		"String": "5",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_5.SM_RussoOne_5"
+	},
+	{
+		"Name": "CharacterRow_58",
+		"String": "6",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_6.SM_RussoOne_6"
+	},
+	{
+		"Name": "CharacterRow_59",
+		"String": "7",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_7.SM_RussoOne_7"
+	},
+	{
+		"Name": "CharacterRow_60",
+		"String": "8",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_8.SM_RussoOne_8"
+	},
+	{
+		"Name": "CharacterRow_61",
+		"String": "9",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_9.SM_RussoOne_9"
+	},
+	{
+		"Name": "CharacterRow_62",
+		"String": "-",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_dash.SM_RussoOne_dash"
+	},
+	{
+		"Name": "CharacterRow_63",
+		"String": "_",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_underscore.SM_RussoOne_underscore"
+	},
+	{
+		"Name": "CharacterRow_64",
+		"String": "!",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_exclamation_mark.SM_RussoOne_exclamation_mark"
+	},
+	{
+		"Name": "CharacterRow_65",
+		"String": "?",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_question_mark.SM_RussoOne_question_mark"
+	},
+	{
+		"Name": "CharacterRow_66",
+		"String": "&",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_ampersand.SM_RussoOne_ampersand"
+	},
+	{
+		"Name": "CharacterRow_67",
+		"String": ".",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_period.SM_RussoOne_period"
+	},
+	{
+		"Name": "CharacterRow_68",
+		"String": ",",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_comma.SM_RussoOne_comma"
+	},
+	{
+		"Name": "CharacterRow_69",
+		"String": ":",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_colon.SM_RussoOne_colon"
+	},
+	{
+		"Name": "CharacterRow_70",
+		"String": ";",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_semicolon.SM_RussoOne_semicolon"
+	},
+	{
+		"Name": "CharacterRow_71",
+		"String": "/",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_slash.SM_RussoOne_slash"
+	},
+	{
+		"Name": "CharacterRow_72",
+		"String": "\\",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_backslash.SM_RussoOne_backslash"
+	},
+	{
+		"Name": "CharacterRow_73",
+		"String": "%",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_percent.SM_RussoOne_percent"
+	},
+	{
+		"Name": "CharacterRow_74",
+		"String": "$",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_dollar.SM_RussoOne_dollar"
+	},
+	{
+		"Name": "CharacterRow_75",
+		"String": "(",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_open_parantheses.SM_RussoOne_open_parantheses"
+	},
+	{
+		"Name": "CharacterRow_76",
+		"String": ")",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_close_parantheses.SM_RussoOne_close_parantheses"
+	},
+	{
+		"Name": "CharacterRow_77",
+		"String": "[",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_open_bracket.SM_RussoOne_open_bracket"
+	},
+	{
+		"Name": "CharacterRow_78",
+		"String": "]",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_close_bracket.SM_RussoOne_close_bracket"
+	},
+	{
+		"Name": "CharacterRow_79",
+		"String": "<",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_less_than.SM_RussoOne_less_than"
+	},
+	{
+		"Name": "CharacterRow_80",
+		"String": ">",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_greater_than.SM_RussoOne_greater_than"
+	},
+	{
+		"Name": "CharacterRow_81",
+		"String": "+",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_plus.SM_RussoOne_plus"
+	},
+	{
+		"Name": "CharacterRow_82",
+		"String": "=",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_equals.SM_RussoOne_equals"
+	},
+	{
+		"Name": "CharacterRow_83",
+		"String": "@",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_at.SM_RussoOne_at"
+	},
+	{
+		"Name": "CharacterRow_84",
+		"String": "#",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_hash.SM_RussoOne_hash"
+	},
+	{
+		"Name": "CharacterRow_85",
+		"String": "*",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_multiply.SM_RussoOne_multiply"
+	},
+	{
+		"Name": "CharacterRow_86",
+		"String": "\"",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_double_quote.SM_RussoOne_double_quote"
+	},
+	{
+		"Name": "CharacterRow_87",
+		"String": "'",
+		"Mesh": "/Game/ZText/Meshes/RussoOne/SM_RussoOne_single_quote.SM_RussoOne_single_quote"
+	}
+]

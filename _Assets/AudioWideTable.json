@@ -1,0 +1,442 @@
+[
+	{
+		"Name": "CharacterRow_0",
+		"String": "A",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_a_upper.SM_AudioWide_a_upper"
+	},
+	{
+		"Name": "CharacterRow_1",
+		"String": "a",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_a_lower.SM_AudioWide_a_lower"
+	},
+	{
+		"Name": "CharacterRow_2",
+		"String": "B",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_b_upper.SM_AudioWide_b_upper"
+	},
+	{
+		"Name": "CharacterRow_3",
+		"String": "b",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_b_lower.SM_AudioWide_b_lower"
+	},
+	{
+		"Name": "CharacterRow_4",
+		"String": "C",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_c_upper.SM_AudioWide_c_upper"
+	},
+	{
+		"Name": "CharacterRow_5",
+		"String": "c",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_c_lower.SM_AudioWide_c_lower"
+	},
+	{
+		"Name": "CharacterRow_6",
+		"String": "D",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_d_upper.SM_AudioWide_d_upper"
+	},
+	{
+		"Name": "CharacterRow_7",
+		"String": "d",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_d_lower.SM_AudioWide_d_lower"
+	},
+	{
+		"Name": "CharacterRow_8",
+		"String": "E",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_e_upper.SM_AudioWide_e_upper"
+	},
+	{
+		"Name": "CharacterRow_9",
+		"String": "e",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_e_lower.SM_AudioWide_e_lower"
+	},
+	{
+		"Name": "CharacterRow_10",
+		"String": "F",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_f_upper.SM_AudioWide_f_upper"
+	},
+	{
+		"Name": "CharacterRow_11",
+		"String": "f",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_f_lower.SM_AudioWide_f_lower"
+	},
+	{
+		"Name": "CharacterRow_12",
+		"String": "G",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_g_upper.SM_AudioWide_g_upper"
+	},
+	{
+		"Name": "CharacterRow_13",
+		"String": "g",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_g_lower.SM_AudioWide_g_lower"
+	},
+	{
+		"Name": "CharacterRow_14",
+		"String": "H",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_h_upper.SM_AudioWide_h_upper"
+	},
+	{
+		"Name": "CharacterRow_15",
+		"String": "h",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_h_lower.SM_AudioWide_h_lower"
+	},
+	{
+		"Name": "CharacterRow_16",
+		"String": "I",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_i_upper.SM_AudioWide_i_upper"
+	},
+	{
+		"Name": "CharacterRow_17",
+		"String": "i",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_i_lower.SM_AudioWide_i_lower"
+	},
+	{
+		"Name": "CharacterRow_18",
+		"String": "J",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_j_upper.SM_AudioWide_j_upper"
+	},
+	{
+		"Name": "CharacterRow_19",
+		"String": "j",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_j_lower.SM_AudioWide_j_lower"
+	},
+	{
+		"Name": "CharacterRow_20",
+		"String": "K",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_k_upper.SM_AudioWide_k_upper"
+	},
+	{
+		"Name": "CharacterRow_21",
+		"String": "k",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_k_lower.SM_AudioWide_k_lower"
+	},
+	{
+		"Name": "CharacterRow_22",
+		"String": "L",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_l_upper.SM_AudioWide_l_upper"
+	},
+	{
+		"Name": "CharacterRow_23",
+		"String": "l",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_l_lower.SM_AudioWide_l_lower"
+	},
+	{
+		"Name": "CharacterRow_24",
+		"String": "M",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_m_upper.SM_AudioWide_m_upper"
+	},
+	{
+		"Name": "CharacterRow_25",
+		"String": "m",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_m_lower.SM_AudioWide_m_lower"
+	},
+	{
+		"Name": "CharacterRow_26",
+		"String": "N",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_n_upper.SM_AudioWide_n_upper"
+	},
+	{
+		"Name": "CharacterRow_27",
+		"String": "n",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_n_lower.SM_AudioWide_n_lower"
+	},
+	{
+		"Name": "CharacterRow_28",
+		"String": "O",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_o_upper.SM_AudioWide_o_upper"
+	},
+	{
+		"Name": "CharacterRow_29",
+		"String": "o",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_o_lower.SM_AudioWide_o_lower"
+	},
+	{
+		"Name": "CharacterRow_30",
+		"String": "P",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_p_upper.SM_AudioWide_p_upper"
+	},
+	{
+		"Name": "CharacterRow_31",
+		"String": "p",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_p_lower.SM_AudioWide_p_lower"
+	},
+	{
+		"Name": "CharacterRow_32",
+		"String": "Q",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_q_upper.SM_AudioWide_q_upper"
+	},
+	{
+		"Name": "CharacterRow_33",
+		"String": "q",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_q_lower.SM_AudioWide_q_lower"
+	},
+	{
+		"Name": "CharacterRow_34",
+		"String": "R",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_r_upper.SM_AudioWide_r_upper"
+	},
+	{
+		"Name": "CharacterRow_35",
+		"String": "r",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_r_lower.SM_AudioWide_r_lower"
+	},
+	{
+		"Name": "CharacterRow_36",
+		"String": "S",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_s_upper.SM_AudioWide_s_upper"
+	},
+	{
+		"Name": "CharacterRow_37",
+		"String": "s",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_s_lower.SM_AudioWide_s_lower"
+	},
+	{
+		"Name": "CharacterRow_38",
+		"String": "T",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_t_upper.SM_AudioWide_t_upper"
+	},
+	{
+		"Name": "CharacterRow_39",
+		"String": "t",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_t_lower.SM_AudioWide_t_lower"
+	},
+	{
+		"Name": "CharacterRow_40",
+		"String": "U",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_u_upper.SM_AudioWide_u_upper"
+	},
+	{
+		"Name": "CharacterRow_41",
+		"String": "u",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_u_lower.SM_AudioWide_u_lower"
+	},
+	{
+		"Name": "CharacterRow_42",
+		"String": "V",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_v_upper.SM_AudioWide_v_upper"
+	},
+	{
+		"Name": "CharacterRow_43",
+		"String": "v",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_v_lower.SM_AudioWide_v_lower"
+	},
+	{
+		"Name": "CharacterRow_44",
+		"String": "W",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_w_upper.SM_AudioWide_w_upper"
+	},
+	{
+		"Name": "CharacterRow_45",
+		"String": "w",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_w_lower.SM_AudioWide_w_lower"
+	},
+	{
+		"Name": "CharacterRow_46",
+		"String": "X",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_x_upper.SM_AudioWide_x_upper"
+	},
+	{
+		"Name": "CharacterRow_47",
+		"String": "x",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_x_lower.SM_AudioWide_x_lower"
+	},
+	{
+		"Name": "CharacterRow_48",
+		"String": "Y",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_y_upper.SM_AudioWide_y_upper"
+	},
+	{
+		"Name": "CharacterRow_49",
+		"String": "y",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_y_lower.SM_AudioWide_y_lower"
+	},
+	{
+		"Name": "CharacterRow_50",
+		"String": "Z",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_z_upper.SM_AudioWide_z_upper"
+	},
+	{
+		"Name": "CharacterRow_51",
+		"String": "z",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_z_lower.SM_AudioWide_z_lower"
+	},
+	{
+		"Name": "CharacterRow_52",
+		"String": "0",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_0.SM_AudioWide_0"
+	},
+	{
+		"Name": "CharacterRow_53",
+		"String": "1",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_1.SM_AudioWide_1"
+	},
+	{
+		"Name": "CharacterRow_54",
+		"String": "2",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_2.SM_AudioWide_2"
+	},
+	{
+		"Name": "CharacterRow_55",
+		"String": "3",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_3.SM_AudioWide_3"
+	},
+	{
+		"Name": "CharacterRow_56",
+		"String": "4",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_4.SM_AudioWide_4"
+	},
+	{
+		"Name": "CharacterRow_57",
+		"String": "5",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_5.SM_AudioWide_5"
+	},
+	{
+		"Name": "CharacterRow_58",
+		"String": "6",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_6.SM_AudioWide_6"
+	},
+	{
+		"Name": "CharacterRow_59",
+		"String": "7",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_7.SM_AudioWide_7"
+	},
+	{
+		"Name": "CharacterRow_60",
+		"String": "8",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_8.SM_AudioWide_8"
+	},
+	{
+		"Name": "CharacterRow_61",
+		"String": "9",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_9.SM_AudioWide_9"
+	},
+	{
+		"Name": "CharacterRow_62",
+		"String": "-",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_dash.SM_AudioWide_dash"
+	},
+	{
+		"Name": "CharacterRow_63",
+		"String": "_",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_underscore.SM_AudioWide_underscore"
+	},
+	{
+		"Name": "CharacterRow_64",
+		"String": "!",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_exclamation_mark.SM_AudioWide_exclamation_mark"
+	},
+	{
+		"Name": "CharacterRow_65",
+		"String": "?",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_question_mark.SM_AudioWide_question_mark"
+	},
+	{
+		"Name": "CharacterRow_66",
+		"String": "&",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_ampersand.SM_AudioWide_ampersand"
+	},
+	{
+		"Name": "CharacterRow_67",
+		"String": ".",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_period.SM_AudioWide_period"
+	},
+	{
+		"Name": "CharacterRow_68",
+		"String": ",",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_comma.SM_AudioWide_comma"
+	},
+	{
+		"Name": "CharacterRow_69",
+		"String": ":",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_colon.SM_AudioWide_colon"
+	},
+	{
+		"Name": "CharacterRow_70",
+		"String": ";",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_semicolon.SM_AudioWide_semicolon"
+	},
+	{
+		"Name": "CharacterRow_71",
+		"String": "/",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_slash.SM_AudioWide_slash"
+	},
+	{
+		"Name": "CharacterRow_72",
+		"String": "\\",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_backslash.SM_AudioWide_backslash"
+	},
+	{
+		"Name": "CharacterRow_73",
+		"String": "%",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_percent.SM_AudioWide_percent"
+	},
+	{
+		"Name": "CharacterRow_74",
+		"String": "$",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_dollar.SM_AudioWide_dollar"
+	},
+	{
+		"Name": "CharacterRow_75",
+		"String": "(",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_open_parantheses.SM_AudioWide_open_parantheses"
+	},
+	{
+		"Name": "CharacterRow_76",
+		"String": ")",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_close_parantheses.SM_AudioWide_close_parantheses"
+	},
+	{
+		"Name": "CharacterRow_77",
+		"String": "[",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_open_bracket.SM_AudioWide_open_bracket"
+	},
+	{
+		"Name": "CharacterRow_78",
+		"String": "]",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_close_bracket.SM_AudioWide_close_bracket"
+	},
+	{
+		"Name": "CharacterRow_79",
+		"String": "<",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_less_than.SM_AudioWide_less_than"
+	},
+	{
+		"Name": "CharacterRow_80",
+		"String": ">",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_greater_than.SM_AudioWide_greater_than"
+	},
+	{
+		"Name": "CharacterRow_81",
+		"String": "+",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_plus.SM_AudioWide_plus"
+	},
+	{
+		"Name": "CharacterRow_82",
+		"String": "=",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_equals.SM_AudioWide_equals"
+	},
+	{
+		"Name": "CharacterRow_83",
+		"String": "@",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_at.SM_AudioWide_at"
+	},
+	{
+		"Name": "CharacterRow_84",
+		"String": "#",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_hash.SM_AudioWide_hash"
+	},
+	{
+		"Name": "CharacterRow_85",
+		"String": "*",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_multiply.SM_AudioWide_multiply"
+	},
+	{
+		"Name": "CharacterRow_86",
+		"String": "\"",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_double_quote.SM_AudioWide_double_quote"
+	},
+	{
+		"Name": "CharacterRow_87",
+		"String": "'",
+		"Mesh": "/Game/ZText/Meshes/AudioWide/SM_AudioWide_single_quote.SM_AudioWide_single_quote"
+	}
+]
